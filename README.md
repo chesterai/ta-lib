@@ -1,5 +1,10 @@
-# TA-Lib
 
+
+# self Docs:
+[Different prices](http://mrjbq7.github.io/ta-lib/func_groups/price_transform.html)
+
+
+# TA-Lib
 [![](https://app.travis-ci.com/mrjbq7/ta-lib.svg?branch=master)](https://app.travis-ci.com/mrjbq7/ta-lib)
 
 This is a Python wrapper for [TA-LIB](http://ta-lib.org) based on Cython
