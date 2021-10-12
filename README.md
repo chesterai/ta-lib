@@ -2,7 +2,8 @@
 
 # Self Docs:
 [Different prices](http://mrjbq7.github.io/ta-lib/func_groups/price_transform.html)
-[Terminologies](https://www.fmlabs.com/reference/default.htm?url=WeightedCloses.htm)
+
+[Terminologies from Indicator Reference](https://www.fmlabs.com/reference/default.htm?url=WeightedCloses.htm)
 
 
 # TA-Lib
